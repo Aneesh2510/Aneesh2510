@@ -10,7 +10,7 @@ computer science student @SRM university
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
-### 💻 Workspace Spec
+ 💻 Workspace Spec
 <img width="50" height="50" src="https://img.icons8.com/nolan/50/asus--v2.png" alt="asus--v2"/> <img width="48" height="48" src="https://img.icons8.com/color/48/nvidia.png" alt="nvidia"/>  <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-intel-corporation-an-american-multinational-corporation-and-technology-company-logo-shadow-tal-revivo.png" alt="external-intel-corporation-an-american-multinational-corporation-and-technology-company-logo-shadow-tal-revivo"/>
 
 
