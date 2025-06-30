@@ -1,9 +1,10 @@
-## Hi there 👋 It's me Aneesh Prabu
+## Hi there 👋 It's me, Aneesh Prabu
 
-computer science student @SRM university
+Computer science student @SRM university
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                               
-- 🌱 I’m currently learning programming languages,tech fields and cyber security
+- 🌱 I’m currently learning programming languages, tech fields, and cybersecurity
 - ⚡ Fun fact: I code better when music is playing in the background
+- Here's my portfolio :https://aneesh2510.github.io/ani-portfolio/
 - Social Presence
 <br />  <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aneeshprabu2510/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/aneeshhhh_____/)
 - For any queries, feel free to ask me
